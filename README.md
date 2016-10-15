@@ -6,7 +6,7 @@ Códigos do curso Python: Programação Orientada a Objetos com Python3.
 
 Sempre que quiser enviar um projeto, crie um diretório contendo os arquivos do projeto. O nome do diretório/pasta será identificado da seguinte forma: <b>NomeDoProjeto_SeuNomeComSobrenome</b>
 
-Digamos o nome do projeto é: Projeto SQlite, então eu poderia identificar meu diretório como: <b>ProjetoSQlite_MarcosCastro</b>
+Digamos que o nome do projeto é: Projeto SQlite, então eu poderia identificar meu diretório como: <b>ProjetoSQlite_MarcosCastro</b>
 
 Assim fica fácil os instrutores identificarem qual é o projeto e quem foi o aluno que enviou. Todos os alunos que enviarem receberão benefícios como promoções especiais, indicações, cupons gratuitos de cursos etc.
 
